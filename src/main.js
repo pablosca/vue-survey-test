@@ -3,6 +3,9 @@ import App from './App.vue'
 
 Vue.config.productionTip = false
 
+// Global event bus
+Vue.prototype.$bus = new Vue();
+
 new Vue({
   render: h => h(App)
 }).$mount('#app')

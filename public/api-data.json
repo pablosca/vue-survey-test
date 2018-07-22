@@ -1,0 +1,80 @@
+{
+    "questions": [
+        {
+            "question_id": 2,
+            "value": "It is important to him\/her to form his\/her views independently",
+            "question_code": "SDT1",
+            "answer_id": 5
+        },
+        {
+            "question_id": 3,
+            "value": "It is important to him\/her that his\/her country is secure and stable",
+            "question_code": "SES1",
+            "answer_id": 6
+        },
+        {
+            "question_id": 4,
+            "value": "It is important to him\/her to have a good time",
+            "question_code": "HE1",
+            "answer_id": 5
+        },
+        {
+            "question_id": 5,
+            "value": "It is important to him\/her to avoid upsetting other people",
+            "question_code": "COI1",
+            "answer_id": 3
+        },
+        {
+            "question_id": 6,
+            "value": "It is important to him\/her that the weak and vulnerable in society be protected",
+            "question_code": "UNC1",
+            "answer_id": 5
+        },
+        {
+            "question_id": 7,
+            "value": "It is important to him\/her that people do what he\/she says they should",
+            "question_code": "POD1",
+            "answer_id": 2
+        },
+        {
+            "question_id": 8,
+            "value": "It is important to him\/her never to think he deserves more than other people",
+            "question_code": "HUM1",
+            "answer_id": 2
+        },
+        {
+            "question_id": 9,
+            "value": "It is important to him\/her to care for nature",
+            "question_code": "UNN1",
+            "answer_id": 5
+        },
+        {
+            "question_id": 10,
+            "value": "It is important to him\/her that no one should ever shame him\/her",
+            "question_code": "FAC1",
+            "answer_id": 2
+        },
+        {
+            "question_id": 11,
+            "value": "It is important to him\/her always to look for different things to do",
+            "question_code": "ST1",
+            "answer_id": 4
+        },
+        {
+            "question_id": 12,
+            "value": "It is important to him\/her to take care of people he\/she is close to",
+            "question_code": "BEC1",
+            "answer_id": 6
+        },
+        {
+            "question_id": 13,
+            "value": "It is important to him\/her to have the power that money can bring",
+            "question_code": "POR1",
+            "answer_id": 3
+        }
+    ],
+    "candidate": {
+        "name": "Pablo Scasso",
+        "sex": "m"
+    }
+}
